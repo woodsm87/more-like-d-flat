@@ -1,0 +1,15 @@
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\bin\Debug\net5.0\Operators.exe
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\bin\Debug\net5.0\Operators.deps.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\bin\Debug\net5.0\Operators.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\bin\Debug\net5.0\ref\Operators.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\bin\Debug\net5.0\Operators.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\obj\Debug\net5.0\Operators.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\obj\Debug\net5.0\ref\Operators.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\obj\Debug\net5.0\Operators.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Operators\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
