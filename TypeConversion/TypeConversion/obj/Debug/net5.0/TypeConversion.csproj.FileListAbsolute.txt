@@ -1,0 +1,15 @@
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.exe
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.deps.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.dev.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\bin\Debug\net5.0\ref\TypeConversion.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfo.cs
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\obj\Debug\net5.0\ref\TypeConversion.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.genruntimeconfig.cache
