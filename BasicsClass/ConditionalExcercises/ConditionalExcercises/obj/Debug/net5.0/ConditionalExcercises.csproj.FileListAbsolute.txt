@@ -1,0 +1,15 @@
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\bin\Debug\net5.0\ConditionalExcercises.exe
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\bin\Debug\net5.0\ConditionalExcercises.deps.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\bin\Debug\net5.0\ConditionalExcercises.runtimeconfig.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\bin\Debug\net5.0\ConditionalExcercises.runtimeconfig.dev.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\bin\Debug\net5.0\ConditionalExcercises.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\bin\Debug\net5.0\ref\ConditionalExcercises.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\bin\Debug\net5.0\ConditionalExcercises.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.AssemblyInfoInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.AssemblyInfo.cs
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.csproj.CoreCompileInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ref\ConditionalExcercises.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.genruntimeconfig.cache
