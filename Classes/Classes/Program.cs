@@ -31,7 +31,7 @@ namespace CSharpFundamentals
              *      remains on heap until garbage collected by CLR
              */
 
-            // Classes lesson
+    // Classes
             var john = new Person();
             john.FirstName = "John";
             john.LastName = "Smith";
@@ -47,7 +47,7 @@ namespace CSharpFundamentals
             var result = calculator.Add(1, 2);
             Console.WriteLine(result);
 
-            // Arrays lesson
+    // Arrays
 
             var numbers = new int[3] { 1, 2, 3 };
             //numbers[0] = 1;
@@ -64,7 +64,7 @@ namespace CSharpFundamentals
             Console.WriteLine(flags[2]);
 
 
-            // Strings lesson
+    // Strings
             var firstName = "Matt";
             var lastName = "Woods";
 
@@ -87,7 +87,7 @@ c:\folder2\file";
             Console.WriteLine(text);
             Console.WriteLine(textVerbatim);
 
-            // Enums
+    // Enums
             var method = ShippingMethod.Express;
 
             Console.WriteLine((int)method);
@@ -97,13 +97,13 @@ c:\folder2\file";
 
             Console.WriteLine(method.ToString()); //Console.WriteLine converts all to string in print
 
-            // Parsing string to enum
+        // Parsing string to enum
             var methodName = "Express";
             var shippingMethod = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), methodName);
             Console.WriteLine(shippingMethod);
 
-            // Reference Types vs Value Types
-            // Simple
+    // Reference Types vs Value Types
+        // Simple
 
             var a = 10; // value type
             var b = a; // copy of value stored in new memory address
@@ -117,7 +117,7 @@ c:\folder2\file";
             Console.WriteLine(string.Join(", ", array1));
             Console.WriteLine(string.Join(", ", array2));
 
-            // Advanced
+        // Advanced
             var numeral = 1; // value type
             Increment(numeral); // copy of value is sent to Increment, not object
             Console.WriteLine(numeral);
