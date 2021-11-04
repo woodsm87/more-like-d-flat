@@ -1,0 +1,15 @@
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\bin\Debug\net5.0\Classes.exe
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\bin\Debug\net5.0\Classes.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\bin\Debug\net5.0\ref\Classes.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\obj\Debug\net5.0\Classes.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\obj\Debug\net5.0\ref\Classes.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Classes\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
