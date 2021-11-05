@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\BasicsClass\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\BasicsClass\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\BasicsClass\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\BasicsClass\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\matthew.woods\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\BasicsClass\\HelloWorld\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matthew.woods\\AppData\\Roaming\\NuGet\\NuGet.Config",
