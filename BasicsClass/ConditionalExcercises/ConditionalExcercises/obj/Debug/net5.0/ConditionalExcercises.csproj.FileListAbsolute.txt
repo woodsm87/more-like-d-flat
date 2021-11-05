@@ -13,3 +13,4 @@ C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Condit
 C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ref\ConditionalExcercises.dll
 C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.pdb
 C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.genruntimeconfig.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\ConditionalExcercises\ConditionalExcercises\obj\Debug\net5.0\ConditionalExcercises.csproj.AssemblyReference.cache
