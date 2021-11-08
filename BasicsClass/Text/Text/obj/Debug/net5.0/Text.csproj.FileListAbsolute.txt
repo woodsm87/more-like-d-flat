@@ -1,0 +1,16 @@
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\bin\Debug\net5.0\Text.exe
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\bin\Debug\net5.0\Text.deps.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\bin\Debug\net5.0\Text.runtimeconfig.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\bin\Debug\net5.0\Text.runtimeconfig.dev.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\bin\Debug\net5.0\Text.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\bin\Debug\net5.0\ref\Text.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\bin\Debug\net5.0\Text.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\obj\Debug\net5.0\Text.csproj.AssemblyReference.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\obj\Debug\net5.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\obj\Debug\net5.0\Text.AssemblyInfoInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\obj\Debug\net5.0\Text.AssemblyInfo.cs
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\obj\Debug\net5.0\Text.csproj.CoreCompileInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\obj\Debug\net5.0\Text.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\obj\Debug\net5.0\ref\Text.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\obj\Debug\net5.0\Text.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Text\Text\obj\Debug\net5.0\Text.genruntimeconfig.cache
