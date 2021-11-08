@@ -1,0 +1,16 @@
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\bin\Debug\net5.0\Dates.exe
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\bin\Debug\net5.0\Dates.deps.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\bin\Debug\net5.0\Dates.runtimeconfig.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\bin\Debug\net5.0\Dates.runtimeconfig.dev.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\bin\Debug\net5.0\Dates.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\bin\Debug\net5.0\ref\Dates.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\bin\Debug\net5.0\Dates.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\obj\Debug\net5.0\Dates.csproj.AssemblyReference.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\obj\Debug\net5.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\obj\Debug\net5.0\Dates.AssemblyInfoInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\obj\Debug\net5.0\Dates.AssemblyInfo.cs
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\obj\Debug\net5.0\Dates.csproj.CoreCompileInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\obj\Debug\net5.0\Dates.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\obj\Debug\net5.0\ref\Dates.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\obj\Debug\net5.0\Dates.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Dates\Dates\obj\Debug\net5.0\Dates.genruntimeconfig.cache
