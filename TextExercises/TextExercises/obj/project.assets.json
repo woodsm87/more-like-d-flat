@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matthew.woods\\.nuget\\packages\\": {}
+    "C:\\Users\\Matt Woods\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\TextExercises\\TextExercises\\TextExercises.csproj",
+      "projectUniqueName": "C:\\Users\\Matt Woods\\Source\\Repos\\woodsm87\\more-like-d-flat\\TextExercises\\TextExercises\\TextExercises.csproj",
       "projectName": "TextExercises",
-      "projectPath": "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\TextExercises\\TextExercises\\TextExercises.csproj",
-      "packagesPath": "C:\\Users\\matthew.woods\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matthew.woods\\source\\repos\\woodsm87\\more-like-d-flat\\TextExercises\\TextExercises\\obj\\",
+      "projectPath": "C:\\Users\\Matt Woods\\Source\\Repos\\woodsm87\\more-like-d-flat\\TextExercises\\TextExercises\\TextExercises.csproj",
+      "packagesPath": "C:\\Users\\Matt Woods\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Matt Woods\\Source\\Repos\\woodsm87\\more-like-d-flat\\TextExercises\\TextExercises\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matthew.woods\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Matt Woods\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
