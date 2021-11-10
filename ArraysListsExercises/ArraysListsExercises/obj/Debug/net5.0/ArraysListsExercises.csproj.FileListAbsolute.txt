@@ -1,0 +1,16 @@
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\bin\Debug\net5.0\ArraysListsExercises.exe
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\bin\Debug\net5.0\ArraysListsExercises.deps.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\bin\Debug\net5.0\ArraysListsExercises.runtimeconfig.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\bin\Debug\net5.0\ArraysListsExercises.runtimeconfig.dev.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\bin\Debug\net5.0\ArraysListsExercises.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\bin\Debug\net5.0\ref\ArraysListsExercises.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\bin\Debug\net5.0\ArraysListsExercises.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\obj\Debug\net5.0\ArraysListsExercises.csproj.AssemblyReference.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\obj\Debug\net5.0\ArraysListsExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\obj\Debug\net5.0\ArraysListsExercises.AssemblyInfoInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\obj\Debug\net5.0\ArraysListsExercises.AssemblyInfo.cs
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\obj\Debug\net5.0\ArraysListsExercises.csproj.CoreCompileInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\obj\Debug\net5.0\ArraysListsExercises.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\obj\Debug\net5.0\ref\ArraysListsExercises.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\obj\Debug\net5.0\ArraysListsExercises.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\ArraysListsExercises\ArraysListsExercises\obj\Debug\net5.0\ArraysListsExercises.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\obj\Debug\net5.0\Variables.csproj.AssemblyReference.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\obj\Debug\net5.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\obj\Debug\net5.0\Variables.AssemblyInfoInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\obj\Debug\net5.0\Variables.AssemblyInfo.cs
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\obj\Debug\net5.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\bin\Debug\net5.0\Variables.exe
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\bin\Debug\net5.0\Variables.deps.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\bin\Debug\net5.0\Variables.runtimeconfig.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\bin\Debug\net5.0\Variables.runtimeconfig.dev.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\bin\Debug\net5.0\Variables.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\bin\Debug\net5.0\ref\Variables.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\bin\Debug\net5.0\Variables.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\obj\Debug\net5.0\Variables.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\obj\Debug\net5.0\ref\Variables.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\obj\Debug\net5.0\Variables.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\Variables\Variables\obj\Debug\net5.0\Variables.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\bin\Debug\net5.0\Loops.exe
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\bin\Debug\net5.0\Loops.runtimeconfig.dev.json
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\bin\Debug\net5.0\Loops.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\bin\Debug\net5.0\ref\Loops.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\obj\Debug\net5.0\Loops.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\obj\Debug\net5.0\ref\Loops.dll
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\obj\Debug\net5.0\Loops.pdb
+C:\Users\matthew.woods\source\repos\woodsm87\more-like-d-flat\BasicsClass\Loops\Loops\obj\Debug\net5.0\Loops.genruntimeconfig.cache

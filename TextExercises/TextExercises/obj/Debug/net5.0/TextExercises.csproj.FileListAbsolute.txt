@@ -1,0 +1,16 @@
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\bin\Debug\net5.0\TextExercises.exe
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\bin\Debug\net5.0\TextExercises.deps.json
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\bin\Debug\net5.0\TextExercises.runtimeconfig.json
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\bin\Debug\net5.0\TextExercises.runtimeconfig.dev.json
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\bin\Debug\net5.0\TextExercises.dll
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\bin\Debug\net5.0\ref\TextExercises.dll
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\bin\Debug\net5.0\TextExercises.pdb
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\obj\Debug\net5.0\TextExercises.csproj.AssemblyReference.cache
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\obj\Debug\net5.0\TextExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\obj\Debug\net5.0\TextExercises.AssemblyInfoInputs.cache
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\obj\Debug\net5.0\TextExercises.AssemblyInfo.cs
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\obj\Debug\net5.0\TextExercises.csproj.CoreCompileInputs.cache
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\obj\Debug\net5.0\TextExercises.dll
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\obj\Debug\net5.0\ref\TextExercises.dll
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\obj\Debug\net5.0\TextExercises.pdb
+C:\Users\Matt Woods\Source\Repos\woodsm87\more-like-d-flat\TextExercises\TextExercises\obj\Debug\net5.0\TextExercises.genruntimeconfig.cache
