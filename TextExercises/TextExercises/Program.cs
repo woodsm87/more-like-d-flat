@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace TextExercises
 {
@@ -13,19 +14,26 @@ namespace TextExercises
     *          "Consecutive"; otherwise, display "Not Consecutive".
     */
             Console.WriteLine("Please enter numbers, separated by a hyphen '-': ");
-            var input = Console.ReadLine().Split('-');
-            var max = 0;
+            var input = Console.ReadLine();
 
-            foreach (var n in input)
+            var numbers = new List<int>();
+            foreach (var number in input.Split('-'))
+                numbers.Add(Convert.ToInt32(number));
+
+            numbers.Sort();
+
+            var isConsecutive = true;
+            for (var i = 1; i < numbers.Count; i++)
             {
-                if (Convert.ToInt32(n) + 1 == max || Convert.ToInt32(n) - 1 == max)
+                if (numbers[i] != numbers[i - 1] + 1)
                 {
-                    max = Convert.ToInt32(n);
+                    isConsecutive = false;
+                    break;
                 }
-                Console.WriteLine("Not Consecutive");
-                break;
             }
-            Console.WriteLine("Consecutive");
+
+            var message = isConsecutive ? "Consecutive" : "Not Consecutive";
+            Console.WriteLine(message);
             Console.WriteLine();
 
     /*
@@ -38,12 +46,28 @@ namespace TextExercises
 
             if (String.IsNullOrWhiteSpace(dupes))
             {
-                Console.WriteLine("You forgot to provide numbers");
+                return;
             }
 
-            var check = dupes.Split('-');
-            // parse array for duplicates
-            Console.WriteLine("Duplicates");
+            var nums = new List<int>();
+            foreach (var number in dupes.Split('-'))
+                nums.Add(Convert.ToInt32(number));
+
+            var uniques = new List<int>();
+            var includesDuplicates = false;
+            foreach (var number in nums)
+            {
+                if (!uniques.Contains(number))
+                    uniques.Add(number);
+                else
+                {
+                    includesDuplicates = true;
+                    break;
+                }
+            }
+
+            if (includesDuplicates)
+                Console.WriteLine("Duplicate");
             Console.WriteLine();
 
     /*
@@ -55,34 +79,78 @@ namespace TextExercises
             Console.WriteLine("Enter a time in format '19:00': ");
             var timeIn = Console.ReadLine();
 
-            Console.WriteLine("Ok");
+            if (String.IsNullOrWhiteSpace(timeIn))
+            {
+                Console.WriteLine("Invalid Time");
+                return;
+            }
 
-            Console.WriteLine("Invalid Time");
+            var components = timeIn.Split(':');
+            if (components.Length != 2)
+            {
+                Console.WriteLine("Invalid Time");
+                return;
+            }
 
+            try
+            {
+                var hour = Convert.ToInt32(components[0]);
+                var minute = Convert.ToInt32(components[1]);
+
+                if (hour >= 0 && hour <= 23 && minute >= 0 && minute <= 59)
+                    Console.WriteLine("Ok");
+                else
+                    Console.WriteLine("Invalid Time");
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Invalid Time");
+            }
             Console.WriteLine();
 
-            /*
-             * 4- Write a program and ask the user to enter a few words separated by a space. 
-             *      Use the words to create a variable name with PascalCase. 
-             *      For example, if the user types: "number of students", display "NumberOfStudents". 
-             *      Make sure that the program is not dependent on the input. 
-             *      So, if the user types "NUMBER OF STUDENTS", the program should still display "NumberOfStudents".
-             */
+    /*
+    * 4- Write a program and ask the user to enter a few words separated by a space. 
+    *      Use the words to create a variable name with PascalCase. 
+    *      For example, if the user types: "number of students", display "NumberOfStudents". 
+    *      Make sure that the program is not dependent on the input. 
+    *      So, if the user types "NUMBER OF STUDENTS", the program should still display "NumberOfStudents".
+    */
             Console.WriteLine("Enter a few words: ");
-            var pascal = Console.ReadLine().Split(' ');
+            var pascal = Console.ReadLine();
 
-            Console.WriteLine("PascalCaseOfInput");
+            if (String.IsNullOrWhiteSpace(pascal))
+            {
+                Console.WriteLine("Error");
+                return;
+            }
+
+            var pascalPhrase = "";
+            foreach (var word in pascal.Split(' '))
+            {
+                var wordWithPascalCase = char.ToUpper(word[0]) + word.ToLower().Substring(1);
+                pascalPhrase += wordWithPascalCase;
+            }
+
+            Console.WriteLine(pascalPhrase);
             Console.WriteLine();
 
-            /*
-             * 5- Write a program and ask the user to enter an English word. 
-             *      Count the number of vowels (a, e, o, u, i) in the word. 
-             *      So, if the user enters "inadequate", the program should display 6 on the console.
-             */
+    /*
+    * 5- Write a program and ask the user to enter an English word. 
+    *      Count the number of vowels (a, e, o, u, i) in the word. 
+    *      So, if the user enters "inadequate", the program should display 6 on the console.
+    */
             Console.WriteLine("Please enter a word: ");
-            var vowels = Console.ReadLine();
+            var vowelsIn = Console.ReadLine().ToLower();
 
-            Console.WriteLine("Count of vowels: ");
+            var vowels = new List<char>(new char[] { 'a', 'e', 'o', 'u', 'i' });
+            var vowelsCount = 0;
+            foreach (var character in input)
+            {
+                if (vowels.Contains(character))
+                    vowelsCount++;
+            }
+
+            Console.WriteLine(vowelsCount);
             Console.WriteLine();
         }
     }
